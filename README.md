@@ -1,0 +1,1 @@
+Based on a question "How do we know when a side walk is completely wet?", this is analysis exploring how we understand what the question means and the approach we can take to discover a useful answer.
